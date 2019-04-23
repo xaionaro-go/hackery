@@ -6,4 +6,7 @@
 * [//go:norace](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 * [//line](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 * [// import](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
+* [//go:systemstack](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
+* [//go:nowritebarrierrec](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
+* [//go:yeswritebarrierrec](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
 * [//go:notinheap](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
