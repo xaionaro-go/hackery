@@ -6,3 +6,4 @@
 * [//go:norace](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 * [//line](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
 * [// import](https://dave.cheney.net/2018/01/08/gos-hidden-pragmas)
+* [//go:notinheap](https://github.com/golang/go/blob/master/src/runtime/HACKING.md)
